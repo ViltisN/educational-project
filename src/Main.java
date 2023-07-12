@@ -2,8 +2,6 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        public class Main {
-            public static void main(String[] args) {
 
                 int eaters = 5; // сколько людей будут есть
 
@@ -18,8 +16,6 @@ public class Main {
                 System.out.println((chicken / eaters) + " куриных(ое) бёдер(ро)");
                 System.out.println((spices / eaters) + " ложек(ки/ка) специй");
 
-            }
-        }
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
